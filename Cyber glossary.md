@@ -1,6 +1,7 @@
 # **Cybersecurity Glossary**
 
 **Active Directory** - A Microsoft-developed database and service that manages users, devices, and network resources within an organization. \
+**CVE** - Common vulnerabilities and exposures - Term given to a publicly disclosed vulnerability. \
 **DC** - Domain controller - A server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure. \
 **EDR** - Endpoint detecion & response - A series of tools that monitor devices for activity that could indicate a threat. \
 **ELK** - ElasticSearch, LogStash, Kabana - Three open-source tools that are commonly used together to collect, store, analyse, and visualise data. \
