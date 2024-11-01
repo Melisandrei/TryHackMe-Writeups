@@ -6,6 +6,7 @@
 **DC** - Domain controller - A server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure. \
 **EDR** - Endpoint detecion & response - A series of tools that monitor devices for activity that could indicate a threat. \
 **ELK** - ElasticSearch, LogStash, Kabana - Three open-source tools that are commonly used together to collect, store, analyse, and visualise data. \
+**Firewall** - A security tool, hardware or software that is used to filter network traffic by stopping unauthorized incoming and outgoing traffic. \
 **FTP** - File transfer protocol - A protocol designed to help the efficient transfer of files between different and even non-compatible systems. It supports two modes for file transfer: binary and ASCII (text). \
 **GoBuster** - A free and open-source directory and file enumeration tool. Penetration testers and security professionals use it to find hidden directories and files on web servers. \
 **HTTP** - Hypertext transfer protocol - The protocol that specifies how a web browser and a web server communicate. Your web browser requests content from the web server using the HTTP protocol. \
@@ -23,6 +24,7 @@
 **PID** - Process ID - Stands for Process ID. It is a unique identifier assigned to each running process in a system. PIDs are usually assigned in sequential order as processes are created, but can be recycled once a process has completed and terminated. \
 **SIEM** - Security information and endpoint management - A series of tools that monitor devices for activity that could indicate a threat. \
 **SMTP** - Simple mail transfer protocol - A protocol used to send the email to an SMTP server, more specifically to a Mail Submission Agent (MSA) or a Mail Transfer Agent (MTA). \
+**SOAR** - Security orchestration, automation and response - A solution that helps organisations to streamline and automate their security operations, including incident management, threat intelligence, and vulnerability response. \
 **SOC** - Security operations centre - A team of IT security professionals tasked with monitoring, preventing , detecting , investigating, and responding to threats within a company’s network and systems. \
 **Splunk** - A platform for collecting, storing, and analysing machine data. It provides various tools for analysing data, including search, correlation, and visualisation. It is a powerful tool that organisations of all sizes can use to improve their IT operations and security posture. \
 **SSH** - Secure shell - A cryptographic network protocol used in secure communication between devices. SSH encrypts data using cryptographic algorithms, such as Advanced Encryption System (AES) and is often used when logging in remotely to a computer or server. \
