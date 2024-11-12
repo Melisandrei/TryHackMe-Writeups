@@ -2,6 +2,7 @@
 
 **Active Directory** - A Microsoft-developed database and service that manages users, devices, and network resources within an organization. \
 **CSP** - Content-Security-Policy - CSP header is an additional security layer that can help mitigate against common attacks like Cross-Site Scripting (XSS). A CSP provides a way for administrators to say what domains or sources are considered safe and provides a layer of mitigation to such attacks. \
+**CTI** - Cyber threat intelligence - Evidence-based knowledge about adversaries, including their indicators, tactics, motivations, and actionable advice against them. \
 **CVE** - Common vulnerabilities and exposures - Term given to a publicly disclosed vulnerability. \
 **DLP** - Data loss prevention - Software detects potential data breaches/data ex-filtration transmissions and prevents them by monitoring, detecting and blocking sensitive data while in use (endpoint actions), in motion (network traffic), and at rest (data storage). \
 **DC** - Domain controller - A server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure. \
@@ -22,6 +23,7 @@
 **Keberos** - A computer network authentication protocol that operates based on tickets, allowing nodes to securely prove their identity to one another over a non-secure network. It primarily aims at a client-server model and provides mutual authentication, where the user and the server verify each other's identity. The Kerberos protocol messages are protected against eavesdropping and replay attacks, and it builds on symmetric-key cryptography, requiring a trusted third party. \
 **MD5** - Message Digest 5 - A cryptographic hash function that takes any input and produces a 128-bit hexadecimal number. The output of an MD5 hash function is called a digest. MD5 digests are often used to verify the integrity of files or data; however, MD5 is no longer considered secure and should not be used for sensitive applications. \
 **MIME** - Multipurpose internet mail extensions - An Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs. \
+**MITRE ATT&CK** - MITRE Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK). \
 **NAC** - Network access control - Controls the devices' suitability before access to the network. Designed to verify device specifications and conditions are compliant with the predetermined profile before connecting to the network. \
 **NTLM** - Windows New Technology LAN Manager - A suite of security protocols offered by Microsoft to authenticate users’ identity and protect the integrity and confidentiality of their activity. \
 **OSI Model** - Open systems interconnection model - Describes how communications should occur in a computer network. In other words, the OSI model defines a framework for computer network communications. \
