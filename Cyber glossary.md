@@ -4,6 +4,7 @@
 **CSP** - Content-Security-Policy - CSP header is an additional security layer that can help mitigate against common attacks like Cross-Site Scripting (XSS). A CSP provides a way for administrators to say what domains or sources are considered safe and provides a layer of mitigation to such attacks. \
 **CTI** - Cyber threat intelligence - Evidence-based knowledge about adversaries, including their indicators, tactics, motivations, and actionable advice against them. \
 **CVE** - Common vulnerabilities and exposures - Term given to a publicly disclosed vulnerability. \
+**DAST**- Dynamic Application Security Testing - Similar to SAST but performs dynamic testing by executing the code. This allows DAST tools to detect additional vulnerabilities that would not be possible with just a source code review. \
 **DLP** - Data loss prevention - Software detects potential data breaches/data ex-filtration transmissions and prevents them by monitoring, detecting and blocking sensitive data while in use (endpoint actions), in motion (network traffic), and at rest (data storage). \
 **DC** - Domain controller - A server that manages security authentication requests in a Windows Server network. It stores user account information and controls access to resources on the network. It is a critical component for managing and securing a network infrastructure. \
 **EDR** - Endpoint detection & response - A series of tools that monitor devices for activity that could indicate a threat. \
@@ -29,6 +30,7 @@
 **OSI Model** - Open systems interconnection model - Describes how communications should occur in a computer network. In other words, the OSI model defines a framework for computer network communications. \
 **OWASP** - Open Web Application Security Project - A nonprofit foundation focused on understanding web technologies and exploitations and provides resources and tools designed to improve the security of software applications. \
 **PID** - Process ID - Stands for Process ID. It is a unique identifier assigned to each running process in a system. PIDs are usually assigned in sequential order as processes are created, but can be recycled once a process has completed and terminated. \
+**SAST** - Static Application Security Testing -  Works by reviewing the source code of the application or service to identify sources of vulnerabilities. SAST tools can be used to scan the source code for vulnerabilities. \
 **SIEM** - Security information and endpoint management - A series of tools that monitor devices for activity that could indicate a threat. \
 **SMTP** - Simple mail transfer protocol - A protocol used to send the email to an SMTP server, more specifically to a Mail Submission Agent (MSA) or a Mail Transfer Agent (MTA). \
 **SOAR** - Security orchestration, automation and response - A solution that helps organisations to streamline and automate their security operations, including incident management, threat intelligence, and vulnerability response. \
