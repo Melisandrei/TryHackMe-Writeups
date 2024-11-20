@@ -24,7 +24,7 @@ Cross-Site Scripting XSS
 
 ### **Task 1**
 **-Deploy VM** \
-![Deploy Machine](<Images/StartMachine.JPG>)
+![Deploy Machine](</Images/StartMachine.JPG>)
 
 - Deployed Machine from THM website. \
 - Connected to THM openvpn via Kali Linux VM \
