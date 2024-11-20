@@ -1,4 +1,4 @@
-# **OWASP Juice Shop (THMver) room**
+# <center> **OWASP Juice Shop (THMver) room**</center>
 
 Link to Room: [Here](https://tryhackme.com/r/room/owaspjuiceshop)
 
@@ -8,7 +8,7 @@ Juice Shop is a large application so the full top 10 will not be covered - I wil
 
 The following topics are covered as you progress through this room.
 
-<------------------------------------------------->
+<center><------------------------------------------------->
 
 Injection
 
@@ -20,7 +20,7 @@ Broken Access Control
 
 Cross-Site Scripting XSS
 
-<------------------------------------------------->
+<-------------------------------------------------></center>
 
 ### **Task 1**
 **-Deploy VM** \
