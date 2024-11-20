@@ -26,9 +26,12 @@ Cross-Site Scripting XSS
 **-Deploy VM** \
 ![Deploy Machine](</Images/StartMachine.JPG>)
 
-- Deployed Machine from THM website. \
-- Connected to THM openvpn via Kali Linux VM \
+- Deployed Machine from THM website. 
+- Connected to THM openvpn via Kali Linux VM 
 
 **-Navigate to Juice Shop** \
 
-- Navigated to the deployed machine address on firefox on VM to display Juice Shop webapp.
+- Navigated to the deployed machine address on firefox on VM to display Juice Shop webapp. \
+![OWASPJuiceShop](</Images/OWASPJuiceShop.JPG>)
+
+### **Task 2**
